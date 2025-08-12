@@ -1,4 +1,4 @@
-# 🗄️ Sales Data Warehouse & Analytics Project
+# 🗄️ Data Warehouse & Analytics Project
 
 ## 📌 Overview
 This project demonstrates a **full end-to-end data warehousing and analytics solution**, from consolidating multiple source systems into a modern data warehouse, to delivering actionable insights via analytics and reporting.
