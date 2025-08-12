@@ -59,9 +59,4 @@ From the analytics layer, decision-makers can:
 - Analyze **customer purchase patterns** to improve retention strategies.
 - Track **sales performance trends** over time for forecasting.
 
----
 
-## 🚀 How to Run This Project
-1. **Clone this repository**  
-   ```bash
-   git clone https://github.com/yourusername/sales-data-warehouse.git
